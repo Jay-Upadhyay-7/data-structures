@@ -9,7 +9,6 @@ void delete_front();
 void display();
 int main()
 {
-printf("Ashish Joshi_20011905_B\n");
 int ch;
 while(ch!=0)
 {
